@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T14:05:48.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="Bw8I72zMnqbF2a4OTiIu" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T14:28:32.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="qNMPe3eQYz_o8wNSxBMg" version="20.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="元胞自动机7链接">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,10 +119,11 @@
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--26" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--3" edge="1">
           <mxGeometry x="0.5" y="41" relative="1" as="geometry">
-            <mxPoint x="508" y="263" as="sourcePoint" />
+            <mxPoint x="510" y="289" as="sourcePoint" />
             <mxPoint x="540" y="192" as="targetPoint" />
             <mxPoint x="-40" y="32" as="offset" />
             <Array as="points">
+              <mxPoint x="450" y="289" />
               <mxPoint x="440" y="263" />
             </Array>
           </mxGeometry>
